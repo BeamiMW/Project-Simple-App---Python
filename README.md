@@ -1,5 +1,5 @@
 ### This project is a simple application of the student academic information system.
-#### Displays the menu:
+#### Display the menu:
 #### 1. Student Data Report
    - 1.1. Report All Data
    - 1.2. Specific Data Report
