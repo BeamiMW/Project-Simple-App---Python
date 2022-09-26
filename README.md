@@ -1,4 +1,4 @@
-# Project ini berisi aplikasi sederhana dari sistem informasi akademik mahasiswa.
+## Project ini berisi aplikasi sederhana dari sistem informasi akademik mahasiswa.
 - yang berisi menu:
 - 1. Report Data Mahasiswa
      - 1.1. Report Seluruh Data
